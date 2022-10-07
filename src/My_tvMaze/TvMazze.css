@@ -1,0 +1,79 @@
+
+.logos{
+    overflow: hidden;
+    background-color: #333;
+    /* display: flex;
+    align-items: center;
+    justify-content: space-evenly; */
+    /* position: fixed; */
+    width: 100%;
+}
+.logo{
+    height: 80px;
+    margin-left: 40px;
+    margin-top: 5px;
+    margin-bottom: 3px;
+}
+.logo1{
+    height: 70px;
+    width: 370px;
+    margin-bottom: 5px;
+    margin-left: 420px;
+}
+.choose{
+    /* overflow: hidden; */
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(224, 113, 9);
+}
+
+.radio-input{
+    margin-right:  15px;
+}
+
+.input-box{
+    margin-right: 100px;
+    
+}
+.input-box input{
+    height: 30px;
+    width: 250px;
+    border-radius: 10px;
+    letter-spacing: 1px;
+    font-size: 18px;
+    padding: 4px;
+    background-color: #333;
+    color: white;
+}
+
+
+
+    .input-sec{
+    overflow: hidden;
+   
+    
+    
+
+ } 
+ .image{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+
+
+ }
+ .show{
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .show{
+    background-color: black;
+    
+ }
+
+    
+
+
